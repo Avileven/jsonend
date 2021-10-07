@@ -7,7 +7,7 @@
       "img": "mobile.jpg",
       "cat": "Internet",
       "date": "30.7.2021",
-      "id": 5
+      "id": 1
     },
     {
       "title": "Digital Marketing ",
@@ -15,7 +15,7 @@
       "author": "Avi Leventhal",
       "cat": "Internet",
       "date": "30.3.2021",
-      "id": 13
+      "id": 2
     },
     {
       "title": "Mcdonalds and market research",
@@ -23,7 +23,7 @@
       "author": "Avi Leventhal",
       "cat": "Business",
       "date": "20.2.2021",
-      "id": 17
+      "id": 3
     },
     {
       "title": "Cruises managment",
@@ -31,7 +31,7 @@
       "author": "Avi Leventhal",
       "cat": "General",
       "date": "30.8.2021",
-      "id": 18
+      "id": 4
     }
   ]
 }
